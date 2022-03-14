@@ -74,6 +74,7 @@ class App extends React.Component {
             />
           </div>
         </div>
+        <h5 className="py-4 text-center">by Perdyy</h5>
       </div>
     );
   }
